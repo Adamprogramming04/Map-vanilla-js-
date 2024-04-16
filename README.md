@@ -25,4 +25,4 @@ This is a simple interactive map project built using HTML, CSS, and Vanilla Java
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-Project made together with Fariborz
+Project made together with Fariborz @Feri-coder
